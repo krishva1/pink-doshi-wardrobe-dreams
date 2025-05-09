@@ -18,8 +18,8 @@ const Hero = () => {
       <div className="relative h-full flex items-center">
         <div className="container mx-auto px-4">
           <div className="max-w-lg">
-            <h2 className="text-5xl md:text-6xl font-playfair font-bold text-white mb-4">Pink</h2>
-            <p className="text-lg text-white/90 mb-8">
+            <h2 className="text-5xl md:text-6xl font-playfair font-bold text-pink-400 mb-4">Pink</h2>
+            <p className="text-lg text-pink-200 mb-8">
               Discover the new Summer 2025 collection by Krishva Doshi. 
               Elegance meets innovation in every piece.
             </p>
